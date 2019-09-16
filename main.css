@@ -1,6 +1,12 @@
 
 p {
-    color: red
+    padding: 10px;
+    font-family: helvetica;
+}
+
+h1 {
+  color: pink;
+  padding-left:30px;
 }
 
 /* The navigation bar (from w3schools tutorial*/
